@@ -2,9 +2,9 @@
 
 ## About me
 
-Hello! My name is Duan, and I am a web designer based in Winnipeg. I am passionate about creating visually appealing, user-friendly websites that offer seamless user experiences.
+Hello! My name is Duan, and I am a web designer based in Winnipeg. I am passionate about creating visually appealing, user-friendly websites that deliver seamless digital experiences.
 
-Before moving to Canada, I worked in IT as a product manager in China, where I focused on understanding user needs and translating them into functional and aesthetically pleasing designs. I have always had an interest in web design, which led me to study software development, with the goal of enhancing my skills in both front-end development and user experience design.
+Before moving to Canada, I worked in IT as a product manager in China, where I focused on understanding user needs and translating them into functional and aesthetically pleasing designs. My interest in web design led me to study software development at MITT in Winnipeg, where I'm focused on improving my front-end and user experience design skills.
 
 I love exploring design trends, color theory, and layout principles to create designs that are not only beautiful but also intuitive and easy to use. I enjoy working on projects that involve responsive design, making websites accessible on all devices.
 
