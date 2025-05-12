@@ -2,13 +2,13 @@
 
 ## About me
 
-Hello! My name is Duan, and I am from China. I grew up in a small town in central China. I came to Canada from China last year.
+Hello! My name is Duan, and I am a web designer based in Winnipeg. I am passionate about creating visually appealing, user-friendly websites that offer seamless user experiences.
 
-When I was in China, I worked in IT. I was a product manager responsible for collecting customer requirements and designing product prototypes. I am currently a student at MIT, studying software development. Because I want to learn about software development knowledge in depth, hoping that I can develop software by myself in the future.
+Before moving to Canada, I worked in IT as a product manager in China, where I focused on understanding user needs and translating them into functional and aesthetically pleasing designs. I have always had an interest in web design, which led me to study software development, with the goal of enhancing my skills in both front-end development and user experience design.
 
-Specifically, I am very interested in robots and artificial intelligence. This is also related to my job in China. We developed robots for large factories that work with workers, and even in some places, all the work was done by robots. I think robots will play an increasingly important role in human society. At the same time, working in this industry is also interesting and valuable.
+I love exploring design trends, color theory, and layout principles to create designs that are not only beautiful but also intuitive and easy to use. I enjoy working on projects that involve responsive design, making websites accessible on all devices.
 
-If you want to know more about me, please contact me!
+Feel free to explore my GitHub to see some of the web design projects I have worked on. If you'd like to know more, don’t hesitate to reach out!
 
 ## My skills
 <p>
