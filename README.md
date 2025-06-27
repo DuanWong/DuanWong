@@ -2,21 +2,33 @@
 
 ## About me
 
-Hello! My name is Duan, and I am from China. I grew up in a small town in central China. I came to Canada from China last year.
+I’m an IT professional based in Winnipeg with practical experience in full-stack development, computer networking, and technical support, and a background as a product manager in the IT industry.
 
-When I was in China, I worked in IT. I was a product manager responsible for collecting customer requirements and designing product prototypes. I am currently a student at MIT, studying software development. Because I want to learn about software development knowledge in depth, hoping that I can develop software by myself in the future.
+I will soon graduate from the Software Development program at MITT, where I focused on building dynamic, user-centered applications from the ground up. I enjoy designing intuitive user interfaces while also developing the underlying systems that ensure performance, security, and scalability.
 
-Specifically, I am very interested in robots and artificial intelligence. This is also related to my job in China. We developed robots for large factories that work with workers, and even in some places, all the work was done by robots. I think robots will play an increasingly important role in human society. At the same time, working in this industry is also interesting and valuable.
+Prior to moving to Canada, I worked in the IT industry in China as a product manager. That experience taught me to think from the user's perspective, work across disciplines, and deliver solutions that align with real-world needs. It also sparked my interest in software development and inspired me to pursue it professionally.
 
-If you want to know more about me, please contact me!
+In addition to development, I have experience in computer networking and technical support, including PC repair, troubleshooting, and hardware and software installation. This broader technical background enables me to approach problems holistically and support systems end to end.
+
+Feel free to explore my GitHub to see some of my development projects. If you'd like to connect or collaborate, don’t hesitate to reach out!
 
 ## My skills
 <p>
-    <img src="https://img.shields.io/badge/WEB-HTML-%231080c2?logoSize=auto")/>&nbsp;
-    <img src="https://img.shields.io/badge/WEB-CSS-%231080c2?logoSize=auto")/>&nbsp;
-    <img src="https://img.shields.io/badge/CODE-JAVASCRIPT-%231080c2?logoSize=auto")/>&nbsp;
-    <img src="https://img.shields.io/badge/IT-NETWORK-%231080c2?logoSize=auto")/>&nbsp;
-    <img src="https://img.shields.io/badge/IT-HARDWARE-%231080c2?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Front%20end-HTML-blue?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Front%20end-CSS-blue?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Front%20end-JavaScript-blue?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Front%20end-React-blue?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Front%20end-Bootstrap-blue?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Front%20end-Windows%20Forms-blue?logoSize=auto")/>&nbsp;
+    <br>
+    <img src="https://img.shields.io/badge/Back%20end-C%23-lightgreen?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Back%20end-ASP.NET%20Core-lightgreen?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Back%20end-Node.js-lightgreen?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Back%20end-SQL%20Server-lightgreen?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/Back%20end-xUnit-lightgreen?logoSize=auto")/>&nbsp;
+    <br>
+    <img src="https://img.shields.io/badge/IT-Computer%20Networking-purple?logoSize=auto")/>&nbsp;
+    <img src="https://img.shields.io/badge/IT-Technical%20Support-purple?logoSize=auto")/>&nbsp;
 </P>
 
 ## My GitHub Stats
