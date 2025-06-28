@@ -12,6 +12,8 @@ In addition to development, I have experience in computer networking and technic
 
 Feel free to explore my GitHub to see some of my development projects. If you'd like to connect or collaborate, don’t hesitate to reach out!
 
+---
+
 ## My skills
 <p>
     <img src="https://img.shields.io/badge/Front%20end-HTML-blue?logoSize=auto")/>&nbsp;
@@ -31,13 +33,16 @@ Feel free to explore my GitHub to see some of my development projects. If you'd 
     <img src="https://img.shields.io/badge/IT-Technical%20Support-purple?logoSize=auto")/>&nbsp;
 </P>
 
+---
+
 ## My GitHub Stats
 
 ### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuanWong)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuanWong&show_icons=true&theme=dracula)
 
-### Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DuanWong&bg_color=ffffff&color=000000&line=blue&point=red)
+---
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuanWong&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuanWong&layout=donut&theme=dracula)
+
+---
