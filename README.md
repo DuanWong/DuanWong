@@ -40,9 +40,6 @@ Feel free to explore my GitHub to see some of my development projects. If you'd 
 ### GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuanWong&show_icons=true&theme=dracula)
 
----
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuanWong&layout=donut&theme=dracula)
-
----
